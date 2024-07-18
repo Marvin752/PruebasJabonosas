@@ -30,5 +30,6 @@ public class Main {
             }
         }while(opcion!=6);
         //Ayuda no se usar Java
+        //Se arreglo
     }
 }
